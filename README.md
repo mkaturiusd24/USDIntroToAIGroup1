@@ -59,5 +59,5 @@ variables that didn't seem to have a significant impact, and to combine certain 
 The data is categorized into two equal halves for test and training data. The data is then fit into Machine Learning classifier models. The GridSearchCV decision tree classifier has shows highest accuracy for the predictions.
 
 ## Acknowledgements
-We would like to acknowledge our instructors Andrew Vaughan and Dave Freisen for their efforts in providing us with the knowledge and guidance to complete this
+We would like to acknowledge our instructors Andrew Van Benschoten and Dave Freisen for their efforts in providing us with the knowledge and guidance to complete this
 project.
